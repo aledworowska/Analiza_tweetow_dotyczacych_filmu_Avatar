@@ -11,4 +11,6 @@ Dodatkowe:
 * Przed analizą tweetów sprawdzono, czy słowo "avatar" występuje w WordNet, leksykalnej bazie danych języka angielskiego.
 * Porównano, jak często tweety wspominały o technologii 3D.
 
-Projekt został zrealizowany w Pythonie w środowisku Jupyter Notebook.
+Projekt został zrealizowany w Pythonie w środowisku Jupyter Notebook. 
+
+Dokładny opis projektu, w tym szczegółowe informacje dotyczące analizy danych, użytych narzędzi oraz wyników, znajduje się w załączonym pliku [Sprawozdanie.pdf](Sprawozdanie.pdf)
