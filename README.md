@@ -7,8 +7,8 @@ Główne założenia projektu:
 * Przeprowadzono analizę sentymentu przed i po premierze z wykorzystaniem narzędzi vaderSentiment i textblob.
 * Stworzono chmury tagów oraz przeanalizowano długość tweetów.
 
-Dodatkowe analizy:
-* Przed analizą sprawdzono, czy słowo "avatar" występuje w WordNet, leksykalnej bazie danych języka angielskiego.
+Dodatkowe:
+* Przed analizą tweetów sprawdzono, czy słowo "avatar" występuje w WordNet, leksykalnej bazie danych języka angielskiego.
 * Porównano, jak często tweety wspominały o technologii 3D.
 
 Projekt został zrealizowany w Pythonie w środowisku Jupyter Notebook.
